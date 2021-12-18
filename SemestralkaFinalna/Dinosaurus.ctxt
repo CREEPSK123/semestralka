@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Dinosaurus
+comment1.params=
+comment1.target=Dinosaurus()
+comment2.params=x\ y
+comment2.target=boolean\ koliduje(int,\ int)
+comment3.params=
+comment3.target=void\ skok()
+comment4.params=
+comment4.target=void\ posunDole()
+numComments=5
